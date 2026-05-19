@@ -34,6 +34,15 @@ Currently, I’m looking for my first opportunity as a **Frontend Developer**.
 - CSS Grid & Flexbox
 - JavaScript (DOM, async/await, APIs)
 
+**Data / Python (AI & Analysis)**
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Keras
+  
 **Tools:**
 - Git & GitHub
 - Vite (basic workflow)
