@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Iván Rodríguez
+## Frontend Developer and Full Stack in progress 🚀
 
-Frontend developer focused on building clean, responsive and accessible web interfaces.
+I build responsive, accessible and modern web interfaces using clean and scalable code.
+
 
 ---
 
@@ -14,15 +16,28 @@ Currently, I’m looking for my first opportunity as a **Frontend Developer**.
 
 ---
 
-## 🧠 Skills
+## ⚡ What I do
 
-* HTML5 (semantic & accessible structure)
-* SCSS (7-1 architecture, mixins, variables, maps)
-* CSS Grid & Flexbox
-* Responsive Design (mobile-first)
-* JavaScript (DOM manipulation, fetch API)
-* Git & GitHub workflows
-* Python
+- Convert UI designs into responsive web experiences
+- Build component-based layouts with SCSS architecture
+- Focus on clean UI, performance and maintainability
+- Apply mobile-first responsive design
+- Write structured and reusable CSS
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:**
+- HTML5 (semantic & accessible)
+- SCSS (7-1 architecture, mixins, variables, maps)
+- CSS Grid & Flexbox
+- JavaScript (DOM, async/await, APIs)
+
+**Tools:**
+- Git & GitHub
+- Vite (basic workflow)
+- Responsive Design (mobile-first)
 
 ---
 
@@ -60,12 +75,12 @@ Utility project focused on improving code readability and workflow.
 
 ---
 
-## 📈 What I'm learning right now
+## 📈  Currently improving
 
-* Advanced JavaScript (async/await, APIs)
-* Frontend architecture best practices
-* Improving accessibility (ARIA, semantic HTML)
-* Building more real-world projects
+- Advanced JavaScript (async patterns, APIs)
+- React (next step in my roadmap)
+- Accessibility (ARIA, semantic structure)
+- Better UI/UX design understanding
 
 ---
 
@@ -89,3 +104,9 @@ Utility project focused on improving code readability and workflow.
 ## ✨ Closing
 
 I’m actively looking for opportunities to grow as a frontend developer and contribute to real projects while continuing to learn and improve every day.
+
+---
+
+## ®️ Philosophy
+
+Clean code. Simple UI. Constant improvement.
