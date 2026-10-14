@@ -52,6 +52,22 @@ Currently, I’m looking for my first opportunity as a **Frontend Developer**.
 
 ## 📂 Featured Projects
 
+### 🎓 Conquer Blocks — Online Programming Academy
+
+Responsive multi-page website for an online programming academy, built with HTML5, Sass and Vite.
+
+* Multi-page website with course landing pages
+* Responsive layouts using CSS Grid and Flexbox
+* Modular Sass architecture (7-1 pattern)
+* BEM naming methodology and reusable UI components
+* Responsive navigation, cards and form interfaces
+* Published on GitHub Pages
+
+👉 https://github.com/cryptolomeo/Academy-conquer
+
+🌐 [Live Demo](https://cryptolomeo.github.io/Academy-conquer/)
+
+
 ### 🎨 Portfolio Website
 Responsive personal portfolio with:
 - Hero section with responsive grid layout
